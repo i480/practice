@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+
+}
+body{
+    border: 1px solid silver;
+    width: 400px;
+    height: 430px;
+    margin-left: 500px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+     padding-top: 20px;
+     object-fit: cover;
+     width: 130px;
+     height: auto;
+    
+}
+.info{
+    margin-left: 20px;
+    font-weight: 500;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+.info h3{
+    color: #fa2855;
+    padding-bottom: 5px;
+}
+.info p{
+    margin-bottom: 9px;
+}
+button{
+    background-color: #fa2855;
+    color: white;
+    padding: 7px;
+    border-radius: 4px;
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.one{
+    border-bottom: 1px solid grey;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    line-height: 190%;
+
+}
+.field{
+    display: flex;
+    gap: 10px;
+    width: 48%;
+}
+.three{
+    border-bottom: 1px solid grey;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    line-height: 190%; 
+    
+}
+.contain{
+    display: flex;
+    gap: 10px;
+    width: 48%;
+}
+.two{
+    border-bottom: 1px solid grey;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    line-height: 190%; 
+}
+.count{
+    display: flex;
+    gap: 10px;
+    width: 48%;
+}
+.four{
+    border-bottom: 1px solid grey;
+    display: flex;
+    align-items: center;
+    width: 100%;
+     line-height: 190%; 
+}
+.cast{
+    display: flex;
+    gap: 10px;
+    width: 48%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
